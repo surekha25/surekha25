@@ -88,9 +88,15 @@ I'm a passionate **DevOps Tools** with over **4+ years of experience** in buildi
 
 ## 🐍 GitHub Contribution Snake
 
-<div align="center">
-  <img src="https://github.com/surekha25/snake/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</div>
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+</picture>
+
+###
 
 ---
 
