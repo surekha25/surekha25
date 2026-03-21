@@ -89,9 +89,6 @@ I'm a passionate **DevOps Tools** with over **4+ years of experience** in buildi
 
 ## 🐍 GitHub Contribution Snake
 ![snake gif](https://github.com/surekha25/surekha25/blob/output/github-snake-dark.svg)
-<div align="center">
-  <img src="https://github.com/surekha25/snake/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</div>
 
 ---
 
