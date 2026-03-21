@@ -9,7 +9,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/surekha-meda/)
 [![Medium](https://img.shields.io/badge/Medium-Blogs-black?logo=medium&style=flat)](http://medium.com/@surekhameda)
-[![Gmail](https://img.shields.io/badge/Email-harikpalepu@gmail.com-red?logo=gmail&style=flat)](mailto:surekhasuri25@gmail.com)
+[![Gmail](https://img.shields.io/badge/Email-surekhasuri25@gmail.com-red?logo=gmail&style=flat)](mailto:surekhasuri25@gmail.com)
 
 ---
 
