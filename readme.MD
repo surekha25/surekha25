@@ -77,7 +77,6 @@ I'm a passionate **DevOps Tools** with over **4+ years of experience** in buildi
 ---
 
 ## 📊 GitHub Stats
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-snake-dark.svg) 
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=surekha25&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true"/>
